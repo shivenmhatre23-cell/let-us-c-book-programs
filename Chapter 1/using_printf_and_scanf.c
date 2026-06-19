@@ -8,4 +8,5 @@ int main()
 
     si=p*n*r/100;
     printf("%f",si);
+    
 }
