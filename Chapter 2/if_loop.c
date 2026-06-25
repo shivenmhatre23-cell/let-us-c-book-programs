@@ -6,8 +6,7 @@ int main()
     scanf("%d" , &num);
 
     if(num<=10)
-        printf("What an Obedient servant you are !");
-    
+        printf("What an Obedient guy you are !");    
     else 
-        printf("What a disobedient guy you are !");       
+        printf("What a disobedient guy you are !"); 
 }
